@@ -24,6 +24,8 @@
 				<string>software</string>
 				<key>title</key>
 				<string>北京商贸学校KPI</string>
+				<key>subtitle</key>
+				<string>v1.0.0 build 16562</string>
 			</dict>
 		</dict>
 	</array>
